@@ -23,6 +23,7 @@ img{
 .data {
     margin: 25px 35px;
     float: right;
+    width: 600px;
 }
 
 .data h3{
@@ -42,6 +43,9 @@ img{
         height: 500px;
         width: 320px;
     }
+    .data{
+        width: 520px;
+    }
 }
 
 
@@ -53,6 +57,9 @@ img{
         margin: 20px;
         height: 500px;
         width: 320px;
+    }
+    .data{
+        width: 450px;
     }
     .data h3{
         font-size: 35px;
