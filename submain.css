@@ -73,7 +73,7 @@ img{
     }
     .data{
         width: 350px;
-        
+        margin: 15px;
     }
     .data li{
         font-size: 20px;
