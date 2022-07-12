@@ -49,6 +49,12 @@ main h1{
     width: 700px;
 }
 
+.qrcode{
+     height: 70px;
+     width: 70px;
+    margin: 15px auto;
+}
+
 .technical{
     margin-top: 50px;
     margin-bottom: 50px;
